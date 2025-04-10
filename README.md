@@ -22,7 +22,7 @@ A comprehensive framework that uses LangChain, LangGraph, Pinecone, and PyPDF2 (
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/multi-agent-data-system.git
+   git clone https://github.com/Lalman888/multi-agent-data-system.git
    cd multi-agent-data-system
    ```
 
